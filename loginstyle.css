@@ -1,0 +1,35 @@
+* {
+    font-family: "poppins";
+    background-color: #E3E3E4;
+    padding: 0;
+    margin: 0;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.login{
+    background-color: white;
+    width: 834;
+    height: 950;
+    border-radius: 127;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    width: 350px;
+    text-align: center;
+}
